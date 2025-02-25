@@ -1,0 +1,8 @@
+pandas
+sqlalchemy
+matplotlib
+IPython
+scikit-learn
+graphviz
+pyyaml
+scipy
